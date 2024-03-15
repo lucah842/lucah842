@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lucah842
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me: Twitter: @lucah842
+- 😄 Pronouns: he/him
