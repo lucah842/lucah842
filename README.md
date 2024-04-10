@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lucah842
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning React
 - 📫 How to reach me: Twitter: @lucah842
 - 😄 Pronouns: he/him
+- IMPORTANT: IF YOU WANT TO SEE THE PROJECTS WITHOUT DOWNLOADING THEM - USE THE LINKS IN THE REPOSITORY DESCRIPTION
